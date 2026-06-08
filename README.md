@@ -1,6 +1,6 @@
 # <h1 align="center">Hi 👋, I'm Anisha</h1>
 
-<h3 align="center">💻 Developer | 🎨 Sketch Artist | ✨ myself first</h3>
+<h3 align="center">💻 Developer | 🎨 Sketch Artist | ✨ frontend</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFC0CB&center=true&vCenter=true&lines=Python+Developer+🐍;Frontend+Creator+🌐;Cloud+Learner+☁️;Sketch+Lover+🎨;Dream+%2B+Code+✨" />
@@ -20,10 +20,10 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://instagram.com/anishaaa_">
+  <a href="https://instagram.com/anishaaa1_">
     <img src="https://img.shields.io/badge/Instagram-%23FF69B4.svg?logo=Instagram&logoColor=white"/>
   </a>
-  <a href="https://tiktok.com/@anishaaaaaa_">
+  <a href="https://tiktok.com/@anishaaaaa_">
     <img src="https://img.shields.io/badge/TikTok-black?logo=TikTok&logoColor=white"/>
   </a>
   <a href="mailto:anishapoudel405@gmail.com">
