@@ -20,7 +20,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://instagram.com/anishaaa1_">
+  <a href="https://instagram.com/anishaaa1__">
     <img src="https://img.shields.io/badge/Instagram-%23FF69B4.svg?logo=Instagram&logoColor=white"/>
   </a>
   <a href="https://tiktok.com/@anishaaaaa_">
