@@ -1,3 +1,6 @@
+<img src="assets/banner.png" width="100%" />
+
+
 <h1 align="center">💖 Hello, welcome to my profile 👋</h1>
 
 <h2 align="center">
