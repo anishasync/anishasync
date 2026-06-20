@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assests/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/anishasync/anishasync/main/assets/banner.png" width="100%" />
 </p>
 
 
