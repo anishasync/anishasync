@@ -1,39 +1,31 @@
-# <h1 align="center">Hi 👋, I'm Anisha</h1>
+<h1 align="center">💖 Hello, welcome to my profile 👋</h1>
 
-<h3 align="center">💻 Developer | 🎨 Sketch Artist | ✨ frontend</h3>
+<h2 align="center">
+  🌸 I'm <span style="color:#FF69B4;">Anisha Poudel</span> 🌸
+</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFC0CB&center=true&vCenter=true&lines=Python+Developer+🐍;Frontend+Creator+🌐;Cloud+Learner+☁️;Sketch+Lover+🎨;Dream+%2B+Code+✨" />
+  💻 Frontend Developer | 🎨 Sketch Artist | ✨ Dreamer
 </p>
 
 ---
 
-## 🌸 mero barema
+<p align="center">
+  <img src="assets/banner.png" width="100%"/>
+</p>
 
-✨ I blend **code with creativity**
-🎨 Obsessed with **sketching & Thoughtful art**
-💻 Learning **Python, Web & AWS**
+---
+
+## 🎀 About Me
+
+💗 I blend **code with creativity**
+🎨 I express emotions through **sketching & art**
+💻 Learning **Python, Web Development & AWS**
 🌙 I love calm, soft vibes
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://instagram.com/anishaaa1__">
-    <img src="https://img.shields.io/badge/Instagram-%23FF69B4.svg?logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://tiktok.com/@anishaaaaa_">
-    <img src="https://img.shields.io/badge/TikTok-black?logo=TikTok&logoColor=white"/>
-  </a>
-  <a href="mailto:anishapoudel405@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFB6C1?logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 💻 Tech Stack
+## 💻✨ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,js,html,java,aws,react&theme=light"/>
@@ -41,52 +33,32 @@
 
 ---
 
-## 💻✨ Coding with Anisha
+## 🌸 Connect with Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <a href="https://instagram.com/anishaaa1__">
+    <img src="https://img.shields.io/badge/Instagram-FF69B4?logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://tiktok.com/@anishaaaaa_">
+    <img src="https://img.shields.io/badge/TikTok-black?logo=TikTok&logoColor=white"/>
+  </a>
+  <a href="mailto:anishapoudel405@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFC0CB?logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🎨 Sketch Vibes
+## 💫 Quote
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif" width="250"/>
-</p>
-
-✨ *Sketching my thoughts, coding my dreams.*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishasync&theme=rose_pine&hide_border=true"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=anishasync&theme=rose_pine&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishasync&layout=compact&theme=rose_pine&hide_border=true"/>
+  🌷 <b>"Soft heart. Creative mind. Powerful code."</b> 🌷  
 </p>
 
 ---
 
-## 🌷 Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anishasync&label=Views&color=FFC0CB&style=flat"/>
-</p>
 
----
-
-## 💫 Mood
-
-> "Soft heart. Creative mind. Powerful code."
-
----
-
-🌙 *sabailai swagat cha*
 
 
 
